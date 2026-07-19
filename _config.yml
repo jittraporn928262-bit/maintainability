@@ -1,3 +1,4 @@
 title: Maintainability
 description: The degree of effectiveness with which a software system can be modified to correct faults or improve performance.
-theme: minima
+theme: jekyll-theme-cayman
+show_downloads: false
